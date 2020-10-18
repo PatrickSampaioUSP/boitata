@@ -9,3 +9,18 @@ Desenvolvimentos técnicos da equipe Megatron, contém:
 * Inicio de desenvolvimento de uma aplicação android utilizando o framework kivy, desenvolvimento incompleto, o MVP pode ser visto em detalhes no vídeo pitch do projeto.
 
 * um arquivo html para a fácil visualização do jupyter notebook
+
+## Instalação do App
+
+Primeiramente, instalar a plataforma Kivy, de acordo com as [instruções do site](https://kivy.org/doc/stable/installation/installation-windows.html)
+
+
+## Execução do Notebook
+
+Caso não esteja instalado, necessário instalar o [Jupyter Notebook](https://jupyter.org/) para execução. Caso deseje, a plataforma [Colab](https://colab.research.google.com/), do Google, permite abrir o arquivo sem instalações.
+
+As bibliotecas necessárias são Numpy, Matplotlib e OpenCV. Se necessário, podem ser instaladas por meio do comando [pip](https://pypi.org/project/opencv-python/).
+
+Após a instalação dos pré-requisitos, já é possível rodar as células, assegurando que a imagem está na mesma pasta do notebook.
+
+Caso não deseje executar o código, o arquivo Modelo_De_Dispercao_fogo.html permite a visualização do notebook no browser.
