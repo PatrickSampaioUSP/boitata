@@ -1,4 +1,4 @@
-# Boitata
+# Boitatá
 
 Desenvolvimentos técnicos da equipe Megatron, contém:
 
