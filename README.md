@@ -10,7 +10,7 @@ Desenvolvimentos técnicos da equipe Megatron, contém:
 
 * um arquivo html para a fácil visualização do jupyter notebook
 
-## Instalação do App
+## Instalação do Android App
 
 Primeiramente, instalar a plataforma Kivy, de acordo com as [instruções do site](https://kivy.org/doc/stable/installation/installation-windows.html)
 
