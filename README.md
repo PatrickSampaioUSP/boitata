@@ -7,3 +7,5 @@ Desenvolvimentos técnicos da equipe Megatron, contém:
 * uma imagem infra-vermelha utilizada como exemplo para ilustração do pré-processamento e da aplicação do algoritmo.
 
 * Inicio de desenvolvimento de uma aplicação android utilizando o framework kivy, desenvolvimento incompleto, o MVP pode ser visto em detalhes no vídeo pitch do projeto.
+
+* um arquivo html para a fácil visualização do jupyter notebook
