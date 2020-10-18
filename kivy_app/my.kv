@@ -1,0 +1,50 @@
+<FloatLayout>
+    GridLayout:
+        size: root.width, root.height
+        cols: 2
+        spacing: 20
+
+        BoxLayout:
+            GridLayout:
+                cols: 2
+                BoxLayout:
+                    size_hint: 0.5, 0.5
+                    Image:
+                        size_hint: 1, 1
+                        source: 'download.jpeg'
+                        id: 'IdImage1'
+                        allow_stretch: True
+                BoxLayout:
+                    size_hint: 0.1, 0.5
+                    orientation: "vertical"
+                    ImageButton:
+                        source:'Mapa.png'
+                        size_hint: .5, .5
+                    ImageButton:
+                        source:'Relevo.png'
+                        size_hint: .5, .5
+                    ImageButton:
+                        source:'Satelite.png'
+                        size_hint: .5, .5
+
+        BoxLayout:
+            size_hint: 0.4, 0.5
+            Video:
+                source:"videoplayback.webm"
+                state:"play"
+                options: {'eos': 'loop'}
+
+        BoxLayout:
+            size_hint: 0.6, 0.5
+            Label:
+                text: "Teste3"
+            Button:
+                text: "Submit"
+                size: root.width, 20
+        BoxLayout:
+            size_hint: 0.4, 0.5
+            Label:
+                text: "Teste4"
+            Button:
+                text: "Submit"
+                size: root.width, 20
