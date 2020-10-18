@@ -14,6 +14,8 @@ Desenvolvimentos técnicos da equipe Megatron, contém:
 
 Primeiramente, instalar a plataforma Kivy, de acordo com as [instruções do site](https://kivy.org/doc/stable/installation/installation-windows.html)
 
+Com o kivy instalado, ir para o diretório *kivy_app*. Executar o comando "python main.py". Dessa forma, será aberta uma janela com o mockup do aplicativo.
+
 
 ## Execução do Notebook
 
