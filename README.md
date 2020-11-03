@@ -1,6 +1,6 @@
 # Boitatá
 
-Projeto ganhador da competição Thales HackSEA, competindo com mais de 20 equipes. Consagrado com a primeira colocação na categoria de utilização de drones monitoramento.
+Projeto ganhador da competição Thales HackSEA, competindo com mais de 20 equipes. Consagrado com a primeira colocação na categoria de utilização de drones monitoramento. No arquivo TechDocumentation.pdf pode-se entender melhor sobre a proposta de valor, o modelo de negocios e a implementação técnica proposta pela equipe.
 
 Desenvolvimentos técnicos da equipe Megatron, contém:
 
