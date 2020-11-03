@@ -31,7 +31,7 @@ Caso não deseje executar o código, o arquivo Modelo_De_Dispercao_fogo.html per
 
 ## Membros
 
-- Ariel Guerreiro
-- Gabriel Mossato
-- Felipe Azank
-- (Patrick Sampaio)[https://github.com/PatrickSampaioUSP]
+- [Ariel Guerreiro](https://github.com/arielguerreiro)
+- [Gabriel Mossato](https://github.com/gvmossato)
+- [Felipe Azank](https://github.com/AZANK7173)
+- [Patrick Sampaio](https://github.com/PatrickSampaioUSP)
